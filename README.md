@@ -1,1 +1,3 @@
-# Hello from ReadMe Introduction to git and GitHub
+# Introduction to git and GitHub
+
+### Hello from ReadMe
